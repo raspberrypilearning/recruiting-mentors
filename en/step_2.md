@@ -96,7 +96,7 @@ title: Support mentor
 **Aims and expectations:** A support mentor helps with tasks to coordinate and organise the club and its communications. They may not be required to attend the sessions and may focus mainly on administrative and coordination tasks.
 
 **Example tasks:**
-+ Promote Dojo sessions locally
++ Promote Code Club sessions locally
 + Communicate updates with parents and guardians of young people
 + Help to organise the session space and equipment
 
