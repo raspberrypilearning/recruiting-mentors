@@ -19,4 +19,3 @@ Explore our new [volunteer recruitment webpage](https://coderdojo.com/en/volunte
 
 --- /no-print ---
 
-
