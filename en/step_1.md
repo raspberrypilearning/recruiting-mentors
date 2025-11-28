@@ -17,8 +17,6 @@ Before looking for new mentors, it is worth reflecting on how you heard about an
 
 --- /task ---
 
-The motivations of new mentors may be similar or very different to your own. 
-
 --- task ---
 
 **Consider** how you can use your experience to make a new mentor’s journey a positive experience.
