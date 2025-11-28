@@ -6,7 +6,7 @@ This course will support those involved in managing and running a Code Club to r
 - Have learnt where and how to recruit potential mentor
 - Know what resources are available to help recruit mentors
 
-Throughout the course, tasks are marked by a green background and a grey checkbox in the top-right corner. Make sure to take notes to assist your learning!
+Throughout the course, tasks are marked by a green background and a grey checkbox in the top-right corner. Take notes to assist your learning!
 
 ## Reflect on your experience
 Before looking for new mentors, it is worth reflecting on how you heard about and became involved in Code Club. 
