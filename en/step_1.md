@@ -1,45 +1,77 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+## Introduction
 
-A brief description - one or two sentences. 
+This course will primarily focus on supporting those involved in managing and running a Dojo to recruit volunteers.
 
---- print-only ---
+Once completed, you should:
+- Understand what tasks volunteers can help with
+- Know how to create a volunteer role description
+- Have learnt where and how to recruit potential volunteers
+- Know what resources are available to help recruit volunteers
 
-![ALT TEXT](images/IMAGE.png)
+## Reflect on your experience
+Before looking for new volunteers, it is worth reflecting on how you heard about and became involved in CoderDojo. 
 
---- /print-only ---
+--- task ---
+
+**Think** about what motivated you to volunteer. Note down what made your experience rewarding, or challenging. 
+
+--- /task ---
+
+The motivations of new volunteers may be similar or very different to your own. 
+
+--- task ---
+
+**Consider** how you can use your experience to make a new volunteer’s journey a positive experience.
+
+--- /task ---
+
+![Woman volunteer thinking](images/Girl_thinking.png)
+
+## Reflect on your Dojo's volunteer needs
+
+Dojos usually have some volunteers who have experience working with young people, some who have coding experience, some who are interested in developing these skills, and others who want to help out the Dojo without working directly with young people.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Dojos benefit from having volunteers with diverse backgrounds, skills, and experiences.
+</p>
+
+Your Dojo might need volunteers to help with:
++ Setting up the space and computers
++ Talking to young people to guide them to find solutions for themselves
++ Gathering suitable learning resources and projects
++ Organising snacks and refreshments for longer sessions
++ Fundraising or organising events
++ Technical support for more complex coding languages 
 
 --- no-print ---
-
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
-
---- /no-print ---
-
---- no-print ---
-
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+--- task ---
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+**Reflect** on what skills your Dojo already has available.
 </div>
+</div>
+--- /task ---
+--- task ---
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+**Ask** the volunteers you already have if they would be interested in upskilling or completing different tasks as part of their role.
+</div>
+</div>
+--- /task ---
+--- task ---
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+**Decide** what skills or roles are still needed, and whether having surplus volunteers on standby if someone can’t attend would be useful.
+</div>
+</div>
+--- /task ---
+
+## How many volunteers do I need?
+The number of volunteers will depend on how many young people attend your sessions, and the type of activities you are doing. Hands-on activities such as physical computing may require more volunteer support.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">We recommend a ratio of **one mentor to every eight children**.</p> 
 
 --- /no-print ---
 
-### You will need:
-- a
-- b
-- c
+  Before discussing a volunteer opportunity with someone, it can be useful to have an outline of what you want the volunteer to do, and the benefits of volunteering in mind. Developing a **role description** can be useful for this.

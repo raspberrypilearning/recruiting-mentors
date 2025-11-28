@@ -1,14 +1,23 @@
-title: Project title in sentence case
-hero_image: images/banner.png
-description: A short description of the project
+---
+title: How to recruit mentors
+hero_image: images/mentors_celebrating.png
+description: This course will focus on supporting those involved in managing and running a Club to recruit mentors.
+version: 2
 listed: false
-pdf: false
+copyedit: false
+last_tested: '2025-11-28'
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+- title: Reflect
+- title: Role descriptions
+- title: Promote
+- title: Resources to help you promote
+- title: Respond
+- title: Reflection
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+    - external
+- title: What next?
