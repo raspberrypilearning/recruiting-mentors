@@ -7,14 +7,16 @@ There are three key elements to consider when promoting volunteer opportunities:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Dojos told us that they recruit:
-+ Parents of young people who participate in the Dojo
+Code Clubs told us that they recruit:
++ Parents of young people who participate in the club
 + Venue staff (e.g. librarians, office staff, youth workers)
-+ Software developers working in the area
-+ Local developer community and social group members
++ Volunteer or STEM organisations in the region
++ IT professionals working in the area
++ Local tech or education community and social group members
 + Students (secondary or further education)
 + Local educators (primary, secondary, or further education)
-+ Teenagers who participated in the Dojo and evolved to mentors
++ Teenagers who participated in the Code Club and evolved into mentors
++ Retirees previously involved in education or technology 
   
 --- task ---
 
@@ -30,7 +32,7 @@ Dojos told us that they recruit:
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Focus on speaking to people connected to and passionate about the Dojo first. If needed, you can then reach out to the wider community. </p>
+<span style="color: #0faeb0">Focus on speaking to people connected to and passionate about the club first. Ask them if they know someone else who would be interested. If needed, you can then reach out to the wider community. </p>
   
 ## Where to promote
 
@@ -44,8 +46,8 @@ title: Examples of where to promote
 
 + Community spaces (libraries, youth clubs, leisure centres, community halls)
 + Corporate spaces (office notice boards, shops)
-+ Online platforms and websites (social media sites and private intranets)
-+ Local media (newspaper, radio)
++ Online platforms and websites (social media sites (pages and groups), and private intranets)
++ Local media (newspaper, radio, newsletters)
   
 --- /collapse ---
   
@@ -83,5 +85,5 @@ title: Examples of where to promote
 <span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a colleague or friend introduce you to someone they think would be interested in the opportunity. Personalise emails where possible.
 </p>
 
-Tip: Highlight training, support, and resources available when talking to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/dojo-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/en/coderdojo){:target="_blank"} for young people to follow.
+Tip: Highlight training, support, and resources available when talking to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/club-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/){:target="_blank"} for young people to follow.
 </div>
