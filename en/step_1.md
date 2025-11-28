@@ -27,7 +27,7 @@ The motivations of new mentors may be similar or very different to your own.
 
 --- /task ---
 
-![Woman volunteer thinking](images/Girl_thinking.png)
+![Woman volunteer thinking](images/Photo-girl-thinking.png)
 
 ## Reflect on your clubs needs
 
