@@ -1,8 +1,6 @@
 ## Introduction
 
-This course will support those involved in managing and running a Code Club to recruit volunteer mentors. 
-
-Once completed, you should:
+This course will support those involved in managing and running a Code Club to recruit volunteer mentors. Once completed, you should:
 - Understand what tasks mentors can help with
 - Know how to create mentor role description
 - Have learnt where and how to recruit potential mentor
