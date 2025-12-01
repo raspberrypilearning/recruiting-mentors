@@ -3,7 +3,7 @@
 ### Let us know what you think
 [Fill in this short form](https://form.raspberrypi.org/4873708) about your experience of this training so we can improve it and future training resouces we develop.
 
-Try our [How to mentor at a Code Club](https://projects.raspberrypi.org/en/projects/club-mentoring/0)) training.
+Try our [How to mentor at a Code Club](https://projects.raspberrypi.org/en/projects/club-mentoring/0) training.
 
 
 --- print-only ---
