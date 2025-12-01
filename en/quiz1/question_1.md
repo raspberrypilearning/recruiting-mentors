@@ -1,4 +1,4 @@
-## Reflection
+## Quiz
 
 Well done, you have learnt a lot! Answer the three questions below to reflect on what you've learnt.
 
