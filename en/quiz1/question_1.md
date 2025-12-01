@@ -1,8 +1,6 @@
 ## Quiz
 
-Well done, you have learnt a lot! Answer the three questions below to reflect on what you've learnt.
-
-After each question, press 'Check my answer'. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Well done, you have learnt a lot! Answer the three questions below to reflect on what you've learnt. After each question, press 'Check my answer'. You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
 
 --- question ---
