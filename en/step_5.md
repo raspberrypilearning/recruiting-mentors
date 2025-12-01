@@ -19,7 +19,7 @@ If you are talking to someone you know, you might give them your mobile number t
   
 If you are posting about mentoring online, you might provide a link to an **online form** (e.g. Google form) for potential mentors to fill out.
   
-![Icons showing different communications channels.](images/Comm_channnels.png)
+![Two children and mentor at a table talking](Two children and mentor at a table talking.png)
 
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
