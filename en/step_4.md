@@ -1,7 +1,7 @@
 ## Resources to help you promote
 
-Linked below are some useful resources you can use and adapt to help promote volunteer opportunities for your Dojo. They are organised according to the approach you decide to use to reach out to potential volunteers. Communications should include: 
-+ Key tasks volunteers will support
+Linked below are some useful resources you can use and adapt to help promote mentor opportunities for your club. They are organised according to the approach you decide to use to reach out to potential volunteers. Communications should include: 
++ Key tasks mentors will support with
 + When they will be needed
 + A clear call to action (what people should do if they are interested)
 
@@ -9,6 +9,7 @@ Linked below are some useful resources you can use and adapt to help promote vol
 --- task ---
 **Select** and adapt the resources that suit the approach you have chosen to reach out to a group.
 --- /task ---
+
 
 --- collapse ---
 
