@@ -11,13 +11,7 @@ How people respond will depend on the approach you have chosen to promote your m
   
 --- /task ---
  
-You might ask those who see a poster or a newspaper advertisement to **email** the Code Club's email address if they are interested.
-  
-You could suggest those who see a social media post about it, to **comment** on the post or **directly message** you on that channel.
-  
-If you are talking to someone you know, you might give them your mobile number to **call you back** once they have thought about it. 
-  
-If you are posting about mentoring online, you might provide a link to an **online form** (e.g. Google form) for potential mentors to fill out.
+You might ask those who see a poster or a newspaper advertisement to **email** the Code Club's email address. You could suggest those who see a social media post about it **comment** on the post or **directly message** you on that channel. If you are talking to someone you know, you might give them your mobile number to **call you** once they have thought about it. If you are posting about it online, you might provide a link to an **online form** (e.g. Google form) for potential mentors to fill out.
   
 ![Two children and mentor at a table talking](images/Two children and mentor at a table talking.png)
 
