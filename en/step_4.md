@@ -17,7 +17,7 @@ Linked below are some useful resources you can use and adapt to help promote men
 title: Talk to people directly
 ---
 
-[Points to include when asking someone to be a volunteer](https://help.coderdojo.com/cdkb/s/article/Things-to-consider-when-asking-someone-to-volunteer){:target="_blank"}
+[Points to include when asking someone to be a volunteer](https://assets.ctfassets.net/zsyyd4yzh6xx/87kLzDu7awRtTYrZ1q6sX/803a9d4e523107bdb56f00211fea1aa2/Key_discussion_points_when_approaching_someone_about_volunteering_at_your_club__1_.pdf){:target="_blank"}
 
 Enquiry cards to hand out:
 [Four A6 postcards on one A4 page for printing](https://drive.google.com/file/d/1yWqghhkQ5C1n27uY_jSCrNb8SZfpSpG2/view){:target="_blank"}
