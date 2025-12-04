@@ -19,10 +19,6 @@ title: Talk to people directly
 
 [Points to include when asking someone to be a volunteer](https://assets.ctfassets.net/zsyyd4yzh6xx/87kLzDu7awRtTYrZ1q6sX/803a9d4e523107bdb56f00211fea1aa2/Key_discussion_points_when_approaching_someone_about_volunteering_at_your_club__1_.pdf){:target="_blank"}
 
-Enquiry cards to hand out:
-[Four A6 postcards on one A4 page for printing](https://drive.google.com/file/d/1yWqghhkQ5C1n27uY_jSCrNb8SZfpSpG2/view){:target="_blank"}
-
-
 
 --- /collapse ---
 
@@ -33,7 +29,7 @@ Some people may have youth work or technical skills you want in your Dojo, other
 ---
 title: Social media posts
 ---
-+ [Social media copy](https://help.coderdojo.com/cdkb/s/article/Social-media-images-and-text-to-recruit-volunteers){:target="_blank"}
++ [Social media copy](https://assets.ctfassets.net/zsyyd4yzh6xx/39ScvxDEDbr5Vr1DpARsrn/89dda4adb03bc8e77d74809dd0255397/Social_media_text_to_recruit_volunteers__1_.pdf){:target="_blank"}
   
 Social media image cards:
 + [“Volunteers needed” social card for Facebook](https://drive.google.com/drive/folders/1wCwrfbhq-IG_L2wvo0ae-osf0z3I6a59){:target="_blank"}
@@ -44,7 +40,7 @@ Social media image cards:
 
 --- /collapse ---
 
-We recommend that Dojos set up at least one social media account to use for promoting your Dojo sessions and finding volunteers and supporters.
+We recommend that community clubs set up at least one social media account to use for promoting your club sessions and finding volunteers and supporters.
 
 --- collapse ---
 
@@ -76,7 +72,7 @@ title: Placing posters in key places
 title: Talking to parents of attendees
 ---
 Resources to help you approach parents: 
-- [Parent/guardian guide to CoderDojo](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo){:target="_blank"}
+
 - [Orientation slide deck for parents/guardians](https://help.coderdojo.com/cdkb/s/article/Orientation-for-parents-and-guardians-slide-deck){:target="_blank"}
 - [Template letter to parents and guardians](https://help.coderdojo.com/cdkb/s/article/Template-letter-for-recruiting-parents-and-guardians-as-volunteers){:target="_blank"}
 
