@@ -63,7 +63,7 @@ Below are some template letters to help you target a specific group:
 ---
 title: Placing posters in key places
 ---
-[Editable A4 poster – "Volunteer with CoderDojo”](https://help.coderdojo.com/cdkb/s/article/Poster-and-printable-cards-to-recruit-volunteers){:target="_blank"}
+[Editable A4 poster – "Volunteer with Code Club”](https://assets.ctfassets.net/zsyyd4yzh6xx/tnxgzVM92l261lWNo3mvH/f6ff24bed7335bb3edd47584453667b9/Code_Club_Mentor_recruitment_Posters_A4_V4.pdf){:target="_blank"}
 
 --- /collapse ---
 
