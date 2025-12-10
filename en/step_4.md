@@ -92,7 +92,7 @@ Utilise your local paper or radio station by proposing to do an article or segme
 title: Presentations or visits to local companies
 ---
 
-[CoderDojo presentation template](https://help.coderdojo.com/cdkb/s/article/CoderDojo-presentation-template){:target="_blank"}
+[Code Club presentation template](https://docs.google.com/presentation/d/11OHYa8GIrVWKGXvJW6Qx9miWCLLbXNlLcYjNafB5LJM/copy){:target="_blank"}
 
 --- /collapse ---
 
