@@ -51,7 +51,7 @@ title: Direct email or letter
 Below are some template letters to help you target a specific group:
 - [Template letter to recruit technical mentors](https://images.ctfassets.net/zsyyd4yzh6xx/6qeBU5yRYc1SeVDK4HBwLF/3fe5decefbfa9fa58375de02c82127c5/Recruit_mentor_email_template_-_Technical.pdf){:target="_blank"}
 - [Template letter to recruit guidance mentors](https://images.ctfassets.net/zsyyd4yzh6xx/5II2qxPG3F6VLG0iWhVuaq/c6e7e7dcdb84fd1228019aea7bdefe21/Recruit_mentor_email_template_-_Guidance_mentor.pdf)
-- [Template letter to a corporate office]([https://help.coderdojo.com/cdkb/s/article/Template-letter-for-finding-mentors-corporate-office](https://images.ctfassets.net/zsyyd4yzh6xx/5f9aV3rI6roGGSq7fufnKI/141ad6d44e96f302fd242b631e825470/Recruit_mentor_email_template_-_Educational_institution.pdf){:target="_blank"}
+- [Template letter to a corporate office](https://images.ctfassets.net/zsyyd4yzh6xx/5f9aV3rI6roGGSq7fufnKI/141ad6d44e96f302fd242b631e825470/Recruit_mentor_email_template_-_Educational_institution.pdf){:target="_blank"}
 - [Template letter to a educational institution](https://images.ctfassets.net/zsyyd4yzh6xx/5f9aV3rI6roGGSq7fufnKI/55699e4972f1376cfbd1b075fa83124c/Recruit_mentor_email_template_-_Educational_institution__1_.pdf){:target="_blank"}
 - [Template letter to parents and guardians](https://assets.ctfassets.net/zsyyd4yzh6xx/LeZZm6dvTviA5ALprXQqO/2e24461a6348b5121ef032d5fef5fdfe/Code_Club_Parent_Volunteer_Recruitment_letter_A4_V9.pdf){:target="_blank"}
 
