@@ -26,10 +26,10 @@ Volunteer role descriptions should not read like a job description. You must be 
 
   --- /feedback ---
 
-- (x) The role title, aims and expectations of the role, an outline of tasks, the location and timing of the volunteer role.
+- (x) The role title, aims and expectations of the role, an outline of tasks, the location and timing of the volunteer mentor role.
 
   --- feedback ---
-Volunteer role descriptions should outline what a role involves. They ensure both the volunteer and others in the Dojo have a clear understanding of their role.
+Volunteer role descriptions should outline what a role involves. They ensure both the mentor and others in the Code Club have a clear understanding of their role.
   --- /feedback ---
 
 - ( ) Only the benefits of volunteering and desirable skills for the role
@@ -37,7 +37,7 @@ Volunteer role descriptions should outline what a role involves. They ensure bot
   --- feedback ---
 These can be added to a volunteer description once the more important role elements, such as the role title, aims and expectations of the role, an outline of tasks, the location and timing of the volunteer role are covered.
 
-Descriptions can also include how the role fits within the Dojo and expectations of behaviour.
+Descriptions can also include how the role fits within the club and expectations of behaviour.
 
   --- /feedback ---
 
