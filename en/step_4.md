@@ -73,8 +73,6 @@ title: Placing posters in key places
 title: Talking to parents of attendees
 ---
 Resources to help you approach parents: 
-
-Resources to help you approach parents: 
 - [Code Club presentation template](https://docs.google.com/presentation/d/11OHYa8GIrVWKGXvJW6Qx9miWCLLbXNlLcYjNafB5LJM/copy){:target="_blank"}
 - [Template letter to parents and guardians](https://assets.ctfassets.net/zsyyd4yzh6xx/LeZZm6dvTviA5ALprXQqO/2e24461a6348b5121ef032d5fef5fdfe/Code_Club_Parent_Volunteer_Recruitment_letter_A4_V9.pdf){:target="_blank"}
 
