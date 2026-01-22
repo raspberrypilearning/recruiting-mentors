@@ -43,7 +43,7 @@ Once accepted, mentors will show up in the "Volunteer list" section and you will
   
 --- task ---
 
-**Respond quickly and politely** to ensure that the first impression of your Code Club is a positive one.
+**Respond quickly and politely** to ensure that the first impression of your Code Club is a positive one. Having a email template ready, so you can easily send important information when you get an enquiry, can be very useful for this.
 
 --- /task ---
   
