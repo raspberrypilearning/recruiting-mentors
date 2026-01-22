@@ -96,5 +96,17 @@ In Ireland, [Volunteer Ireland](https://www.volunteer.ie/) supports organisation
 <span style="color: #0faeb0">**A direct and personal invitation is often more successful.** Reach out to those you know, or have a colleague or friend introduce you to someone they think would be interested in the opportunity. Personalise emails where possible.
 </p>
 
-Tip: Highlight training, support, and resources available when talking to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/club-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/){:target="_blank"} for young people to follow.
+--- collapse ---
+
+---
+title: Highlight training, free background checks, support and resources
+---
+
+All Code Club volunteers in **[Ireland](https://help.codeclub.org/cckb/s/article/Apply-for-Garda-Vetting), [England, Northern Ireland and Wales](https://help.codeclub.org/cckb/s/article/Background-checks-for-Code-Club-volunteers-in-the-UK)** can obtain background checks **free of charge** through the Raspberry Pi Foundation.
+
+Training, support, and resources are also available to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/club-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/){:target="_blank"} for young people to follow.
+
+  
+--- /collapse ---
+
 </div>
