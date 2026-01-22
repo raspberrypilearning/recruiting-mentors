@@ -50,7 +50,18 @@ title: Examples of where to promote
 + Local media (newspaper, radio, newsletters)
   
 --- /collapse ---
+
+--- collapse ---
+
+---
+title: Volunteer organisations can help
+---
+
+In the UK, platforms such as [Doit](https://www.doit.life/) and [Reach Volunteering](https://reachvolunteering.org.uk/) allow organisations to advertise volunteer roles and reach people looking to share their time and skills. The [National Council for Voluntary Organisations (NCVO)](https://ncvo.org.uk/#/) also provides guidance on recruiting and welcoming volunteers.
+
+In Ireland, [Volunteer Ireland](https://www.volunteer.ie/) supports organisations through local volunteer centres and its national volunteering platform, i-VOL, which helps match volunteers with opportunities in their area.
   
+--- /collapse ---
   
 --- task ---
   
