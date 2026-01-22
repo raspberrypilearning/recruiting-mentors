@@ -57,9 +57,9 @@ title: Examples of where to promote
 title: Volunteer organisations can help
 ---
 
-In the UK, platforms such as [Doit](https://www.doit.life/) and [Reach Volunteering](https://reachvolunteering.org.uk/) allow organisations to advertise volunteer roles and reach people looking to share their time and skills. The [National Council for Voluntary Organisations (NCVO)](https://ncvo.org.uk/#/) also provides guidance on recruiting and welcoming volunteers.
+In the UK, platforms such as [Doit](https://www.doit.life/){:target="_blank"} and [Reach Volunteering](https://reachvolunteering.org.uk/){:target="_blank"} allow organisations to advertise volunteer roles and reach people looking to share their time and skills. The [National Council for Voluntary Organisations (NCVO)](https://ncvo.org.uk/#/){:target="_blank"} also provides guidance on recruiting and welcoming volunteers.
 
-In Ireland, [Volunteer Ireland](https://www.volunteer.ie/) supports organisations through local volunteer centres and its national volunteering platform, i-VOL, which helps match volunteers with opportunities in their area.
+In Ireland, [Volunteer Ireland](https://www.volunteer.ie/){:target="_blank"} supports organisations through local volunteer centres and its national volunteering platform, i-VOL, which helps match volunteers with opportunities in their area.
   
 --- /collapse ---
   
@@ -102,7 +102,7 @@ In Ireland, [Volunteer Ireland](https://www.volunteer.ie/) supports organisation
 title: Highlight training, free background checks, support and resources
 ---
 
-All Code Club volunteers in **[Ireland](https://help.codeclub.org/cckb/s/article/Apply-for-Garda-Vetting), [England, Northern Ireland and Wales](https://help.codeclub.org/cckb/s/article/Background-checks-for-Code-Club-volunteers-in-the-UK)** can obtain background checks **free of charge** through the Raspberry Pi Foundation.
+All Code Club volunteers in **[Ireland](https://help.codeclub.org/cckb/s/article/Apply-for-Garda-Vetting){:target="_blank"}, [England, Northern Ireland and Wales](https://help.codeclub.org/cckb/s/article/Background-checks-for-Code-Club-volunteers-in-the-UK){:target="_blank"}** can obtain background checks **free of charge** through the Raspberry Pi Foundation.
 
 Training, support, and resources are also available to prospective volunteers. These include our [“How to mentor” online training module](https://projects.raspberrypi.org/en/projects/club-mentoring/0){:target="_blank"}, and our [step-by-step projects](https://projects.raspberrypi.org/){:target="_blank"} for young people to follow.
 
